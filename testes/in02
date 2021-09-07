@@ -1,0 +1,18 @@
+push 23 45 -9 -99 76 -1 0 54.55 67 23 456 786.23 1.2 555 777 888 999 777 45 -333 54 77 123
+size
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+top
+pop
+top
+pop
+top
+size
+empty
+exit
